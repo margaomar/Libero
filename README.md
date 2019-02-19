@@ -14,7 +14,7 @@
 ## Go to the projects
 You can see this project live going to: 
 
->* **[Líbero](http://libero.fikstore.com/)**
+>* **[Líbero](https://revistalibero.com/)**
 
 
 
