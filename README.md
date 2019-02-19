@@ -75,7 +75,7 @@ You can see this project live going to:
 
 ----
 ## Company
->* [Líbero Football Magazine](http://http://libero.fikstore.com/)
+>* [Líbero Football Magazine](https://revistalibero.com/)
 
 ----
 ## Agency
